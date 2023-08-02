@@ -1,0 +1,7 @@
+.venv/
+Graphs/
+.ipynb_checkpoints/
+
+# Datasets
+highest_grossing_movies.csv
+tmdb_10000_movies_data.csv
